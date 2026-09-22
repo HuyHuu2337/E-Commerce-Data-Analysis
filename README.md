@@ -25,7 +25,7 @@ DAX Measures: Total Orders, GMV, Net Revenue, Cancellation Rate.
 UI/UX Design: Earth-tone color palette, clear layout division (Navigation/Slicers on the left, KPIs and Trends on the right).
 
 📂 Folder Structure
-
+```text
 E-Commerce_Performance_Analysis/
 │
 ├── Data/
